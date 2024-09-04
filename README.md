@@ -4,10 +4,10 @@
   </ul>
 </div>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 15px></picture> **About me**
+## <picture><img src = "https://github.com/gandradedev/gandradedev/blob/main/Images/about_me.gif?raw=true" width = 15px></picture> **About me**
 
 <picture>
-<img align="right" src="https://www.tomethiago.com.br/assets/computer.svg" width = 400px>
+<img align="right" src="https://github.com/gandradedev/gandradedev/blob/main/Images/devSetup.svg" width = 400px>
 </picture>
 
 *Hello, I'm Gabriel!*
